@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  a{
+    text-decoration: none;
+    color:#18922C ;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+
+  }
+/* main body Area Start */
+  
+.container{
+    height: 80px;
+    max-width: 1440px;
+    margin: auto;
+  }
+  nav:after{
+    content:'' ;
+    display: block;
+    clear: both;
+  }
+  nav {
+    background:#FFFF;
+    padding: 1rem 0.5rem;
+  }
+  nav{}
+  
+  nav{}
+  
+  nav .logo {
+    width:50%;
+    float: left;
+  }
+  
+  .logo{
+  height: 45px;
+  width: 81px;
+  
+  }
+  
+  nav .icon_link{
+    width:50%;
+    float: left;
+  }
+  
+  nav .icon_link ul{
+    text-align: center;
+  }
+  nav .icon_link ul li{
+    display: inline-block;
+    list-style: none;
+  }
+  
+/* Banner Area Start */
+.bannar{
+    background-image: url("/asstes/images/min.jpg");
+    height: 500px;
+    max-width: 1440px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+
+  .bannar h1{
+    color:#FFFFFF;
+    font-size: 72px;
+    padding: 100px 300px 0px 100px;
+    margin: auto;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-family: 'Archivo Black', sans-serif;
+     text-shadow: 0 0 8px rgba(0,0,0,1);
+     margin: auto;
+  }
+  .bannar h3 {
+    color:#FFFFFF;
+    font-size:18px;
+    padding: 10px 300px 0px 100px;
+    margin: auto;
+  }
+
+  .bannar p {
+    color:#FFFFFF;
+    font-size: 16px;
+    padding: 10px 300px 0px 100px;
+    margin: auto;
+  }
+
+  /* Footer Area Start */
+  footer {
+    height: 200px;
+    max-width: 1440px;
+    background-color:#333333;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+
+  footer  h3{
+    color:#D4F0FF;
+    text-align: center;
+    padding: 50px 0px 0px 0px;
+    font-size: 14px;
+    margin: auto;
+ }
+ footer p{
+    color:#D4F0FF;
+    text-align: center;
+    font-size: 12.8px;
+    padding: 50px 0px 0px 0px;
+    margin: auto;
+ }
+
+ span {
+    color:#18922C ;
+    text-decoration: none;
+ }
+
+/* Footer Area End */
