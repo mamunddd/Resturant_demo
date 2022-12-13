@@ -59,7 +59,7 @@
   
 /* Banner Area Start */
 .bannar{
-    background-image: url("./asstes/images/min.jpg");
+    background-image: url("../images/min.jpg");
     height: 500px;
     max-width: 1440px;
     background-position: center;
