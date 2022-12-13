@@ -58,8 +58,11 @@
   }
   
 /* Banner Area Start */
+main{
+  background-image: url("../images/min.jpg");
+}
 .bannar{
-    background-image: url("../images/min.jpg");
+
     height: 500px;
     max-width: 1440px;
     background-position: center;
@@ -94,13 +97,18 @@
   }
 
   /* Footer Area Start */
+.foot{
+  background-color:#333333;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
   footer {
     height: 200px;
     max-width: 1440px;
-    background-color:#333333;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: auto;
   }
 
